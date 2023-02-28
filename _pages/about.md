@@ -10,3 +10,5 @@ This text is **italic**.
 
 This is an example paragraph
 
+My name is Michael.
+
