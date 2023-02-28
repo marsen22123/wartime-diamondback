@@ -11,54 +11,7 @@ document: GettysburgAddressInscription.xml
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-    <fileDesc>
-        <titleStmt>
-            <title>Inscription of Gettysburg Address at the Lincoln Memorial</title>
-            <respStmt>
-                <resp>Encoded by:</resp>
-                <name>Michael Arsenault</name>
-            </respStmt>
-        </titleStmt>
-        <publicationStmt>
-            <publisher>Self-published</publisher>
-            <pubPlace>College Park</pubPlace>
-            <date when="2023-02-23">Feburary 23rd, 2023</date>
-        </publicationStmt>
-        <sourceDesc>
-            <listBibl>
-                <bibl type="speech"><note>Based on the speech:</note>
-                        <title>The Gettysburg Address</title>
-                        <note>Given by:</note>
-                        <author>Abraham Lincoln</author>
-                        <note>Given on:</note>
-                        <date when="1863-11-19">November 19th, 1863</date>
-                        <note>At:</note><location xml:id="Gettysburg">
-                            <country key="US">United States</country>
-                            <region key="PA"> Pennslyvania</region>
-                            <placeName>Gettysburg</placeName>
-                            <note>At a dedication of a cemetary following the Battle of
-                                Gettysburg</note>
-                        </location></bibl>
-                <bibl type="inscription"><note>Inscription created by:</note>
-                        <author>Evelyn Beatrice Longman</author>
-                    </bibl>
-                <bibl type="building"><note>Which is housed in the:</note>
-                        <title>Lincoln Memorial</title>
-                        <note>Designed by:</note>
-                        <author>Henry Bacon</author>
-                        <note>Which was completed on:</note>
-                        <date when="1922-05-30">May 30th, 1922</date>
-                        <note>And is located in:</note>
-                        <location xml:id="Washington">
-                            <country key="US">United States</country>
-                            <region key="DC">District of Columbia</region>
-                            <placeName>Washington</placeName>
-                            <district>National Mall</district>
-                        </location>
-                    </bibl>
-            </listBibl>
-        </sourceDesc>
-    </fileDesc>
+   
 </teiHeader>
     <text>
         <body> 
